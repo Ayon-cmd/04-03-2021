@@ -1,0 +1,148 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+
+
+
+
+.logo{
+
+margin-left: 105px;
+
+
+
+
+
+}
+.navber{
+
+display: flex;
+align-items: center;
+padding: 20px;
+
+
+
+
+}
+
+ul{
+
+  border-radius: 10px;
+
+background: #e2494b;
+display: inline-flex;
+
+
+}
+
+nav{
+
+flex: 1;
+text-align: right;
+
+
+
+}
+li{
+
+display: inline-block;
+text-decoration: none;
+padding: 20px;
+
+
+
+}
+a{
+margin-left: 30px;
+color: #ffffff;
+display: inline-block;
+text-decoration: none;
+
+
+}
+
+
+a:hover{
+
+
+  color: #ee9395;
+}
+
+
+
+
+.section{
+
+
+color:  #080300;
+
+font-size: 45px;
+font-family: 'Roboto', sans-serif;
+
+padding-left: 270px;
+
+
+
+}
+.section{
+
+text-align: center;
+
+padding-top: 1.8rem;
+
+
+
+}
+
+
+.Ayon{
+
+padding-top: 80px;
+
+
+}
+
+
+.services{
+
+
+  text-align: center;
+padding-top: 5rem;
+}
+
+
+
+
+h1{
+
+
+
+  background-color: #e2494b;
+  text-align: center;
+
+
+}
+button{
+
+border-radius: px;
+width: 10rem;
+height: 2rem;
+border-radius: .5rem;
+color: #ffffff;
+background: #e2494b;
+
+font-size: 1.0rem;
+
+}
+
+.rows{
+
+max-width: 8rem;
+
+
+}
